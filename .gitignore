@@ -6,3 +6,5 @@ _notes/
 /node_modules/
 /.env
 /package-lock.json
+/api-client-key.pem
+/api-client-cert.pem
