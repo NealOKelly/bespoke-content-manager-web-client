@@ -1,3 +1,10 @@
+//  The following node packages are used:
+//  1) axios - see: https://github.com/axios/axios
+//  2) dotenv - see: https://www.npmjs.com/package/dotenv
+//  3) https://www.npmjs.com/package/fs
+
+
+
 //get dependencies
 const axios = require('axios');
 require('dotenv').config();
